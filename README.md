@@ -2,3 +2,4 @@
 
 IT IS MINE PAGE.
 
+##LEGAL
